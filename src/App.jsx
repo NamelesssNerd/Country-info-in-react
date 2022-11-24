@@ -1,8 +1,10 @@
-import React from 'react'
-
+import React from 'react';
+import Useeffect from './components/useeffect/Useeffect';
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <Useeffect />
+    </>
   )
 }
 
