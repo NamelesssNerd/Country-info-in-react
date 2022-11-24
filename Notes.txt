@@ -1,0 +1,2 @@
+=============Useeffect===========
+--- useeffect is used when the page is load
